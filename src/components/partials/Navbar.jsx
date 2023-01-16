@@ -3,6 +3,7 @@ import Nav from './Nav'
 import Container from '../styledComponent/Container'
 import styled from 'styled-components'
 import { BsFillCartFill } from 'react-icons/bs'
+
 const Navbar = ({children}) => {
     const StyledNavbar = styled.div`
         /* display: flex; */
