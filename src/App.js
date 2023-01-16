@@ -1,8 +1,8 @@
 import './App.css';
-
+import Header from './components/partials/Header'
 function App() {
   return (
-    <div className='container bg-success'>Hello</div>
+      <Header />
   );
 }
 
